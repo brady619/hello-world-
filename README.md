@@ -1,2 +1,3 @@
 # hello-world-
 ...
+first year grad student... just now learning R for real.
